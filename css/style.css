@@ -51,7 +51,7 @@ h5 {
 
 .btn.btn-outline-primary {
 	border-width: 2px;
-	color: #ee64a4;
+	color: #ff8ac1;
 }
 
 .btn.btn-outline-primary:hover,
@@ -91,7 +91,7 @@ header .navbar-brand {
 }
 
 header .navbar-brand span {
-	color: #ee64a4;
+	color: #ff8ac1;
 }
 
 header .top-bar {
@@ -174,7 +174,7 @@ header .navbar .nav-link {
 }
 
 header .navbar .nav-link.active {
-	color: #ee64a4 !important;
+	color: #ff8ac1 !important;
 }
 
 header .navbar .dropdown-menu {
@@ -189,12 +189,12 @@ header .navbar .dropdown-menu {
 }
 
 header .navbar .dropdown-menu .dropdown-item:hover {
-	background: #ee64a4;
+	background: #ff8ac1;
 	color: #fff;
 }
 
 header .navbar .dropdown-menu .dropdown-item.active {
-	background: #ee64a4;
+	background: #ff8ac1;
 	color: #fff;
 }
 
@@ -204,7 +204,7 @@ header .navbar .dropdown-menu a {
 }
 
 header .navbar .cta-btn a {
-	background: #ee64a4;
+	background: #ff8ac1;
 	color: #000 !important;
 	padding-left: 20px !important;
 	padding-right: 20px !important;
@@ -230,7 +230,7 @@ header .navbar .cta-btn a:hover {
 }
 
 .cta-overlap .text {
-	background: #ee64a4;
+	background: #ff8ac1;
 	padding: 3em 2em;
 	-webkit-box-shadow: 0 1px 30px -4px rgba(0, 0, 0, 0.2);
 	box-shadow: 0 1px 30px -4px rgba(0, 0, 0, 0.2);
@@ -258,7 +258,7 @@ header .navbar .cta-btn a:hover {
 
 .custom-icon {
 	font-size: 70px;
-	color: #ee64a4;
+	color: #ff8ac1;
 }
 
 /* Owl Carousel */
@@ -322,7 +322,7 @@ header .navbar .cta-btn a:hover {
 }
 
 .owl-carousel .owl-dots .owl-dot.active {
-	background: #ee64a4;
+	background: #ff8ac1;
 }
 
 .owl-carousel.home-slider {
@@ -498,7 +498,7 @@ header .navbar .cta-btn a:hover {
 }
 
 .cta-link {
-	background: #ee64a4;
+	background: #ff8ac1;
 	padding: 3.5em 0 3em 0;
 	display: block;
 	text-align: center;
@@ -570,7 +570,7 @@ header .navbar .cta-btn a:hover {
 	-webkit-transform: translateX(-50%);
 	-ms-transform: translateX(-50%);
 	transform: translateX(-50%);
-	background: #ee64a4;
+	background: #ff8ac1;
 }
 
 .text-black {
@@ -599,7 +599,7 @@ header .navbar .cta-btn a:hover {
 
 .media-feature .icon {
 	font-size: 60px;
-	color: #ee64a4;
+	color: #ff8ac1;
 }
 
 .media-feature h3 {
@@ -615,7 +615,7 @@ header .navbar .cta-btn a:hover {
 	-ms-transform: scale(1.05);
 	transform: scale(1.05);
 	z-index: 2;
-	border-bottom: 10px solid #ee64a4;
+	border-bottom: 10px solid #ff8ac1;
 }
 
 .media-custom {
@@ -705,11 +705,11 @@ header .navbar .cta-btn a:hover {
 }
 
 .site-footer a {
-	color: #ee64a4;
+	color: #ff8ac1;
 }
 
 .site-footer a:hover {
-	color: #ee64a4;
+	color: #ff8ac1;
 }
 
 .site-footer h3 {
@@ -738,8 +738,8 @@ header .navbar .cta-btn a:hover {
 }
 
 .footer-social a:hover {
-	background: #ee64a4;
-	border-color: #ee64a4;
+	background: #ff8ac1;
+	border-color: #ff8ac1;
 	color: #fff;
 }
 
